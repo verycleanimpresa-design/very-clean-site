@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://verycleanimpresa-design.github.io/very-clean-site/sitemap.xml
